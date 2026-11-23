@@ -4,7 +4,7 @@
 
 
 # print("Hello world!")
-# print("Mikail Munshi", "is a gandu")
+# print("Mikail Munshi", "is a NoobCoder")
 """ 
 variable naming -> 
 """
@@ -71,9 +71,9 @@ variable naming ->
 
 #replace
 # name = "Mikail Munshi"
-# name.replace("Munshi", "Goru") # replaec kore kuthao store kora hocche na
+# name.replace("Munshi", "NoobCoder") # replaec kore kuthao store kora hocche na
 # print(name) # tai Mikail Munshi print korbe. mane replace hobe na
-# print(name.replace("Munshi", "Goru")) #Eibar thik vabe print korbe - > Mikail Goru
+# print(name.replace("Munshi", "NoobCoder")) #Eibar thik vabe print korbe - > Mikail NoobCoder
 
 #check presence
 # name = "Mikail Munshi"
